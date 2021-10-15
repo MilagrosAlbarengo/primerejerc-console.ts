@@ -1,2 +1,2 @@
-# primerejerc-console.ts
+# Madariaga10
 Created with CodeSandbox
